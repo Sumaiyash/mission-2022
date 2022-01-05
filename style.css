@@ -40,6 +40,10 @@
 .span1{
     color: rgb(241, 170, 36);
 }
+.img2{
+    width: 50%;
+    height: auto;
+}
 .para2{
     text-align: justify;
 }
@@ -47,6 +51,29 @@
     font-size: 30px;
 }
 .box1{
-    background-color: rgb(153, 149, 153);
-    padding: 10px ;
+    background-color: rgb(240, 235, 240);
+    padding: 10px;
+    height: auto;
+    width: 50%;
+    border-radius: 20px ;
+}
+.box2{
+    background-color: rgb(231, 210, 231);
+    padding: 10px;
+    height: auto;
+    width: 50%;
+    border-radius: 20px ;
+}
+
+.box3{
+    background-color: rgb(223, 231, 191);
+    padding: 10px;
+    height: auto;
+    width: 50%;
+    border-radius: 20px ;
+}
+
+.parent{
+    display: flex;
+
 }
