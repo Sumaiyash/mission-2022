@@ -1,0 +1,52 @@
+.mission{
+    display: flex;
+}
+.focus{
+    width: 50%;
+}
+
+
+.img1{
+    width: 60%;
+    height: auto;
+}
+.line{
+    border-left: 3px solid tomato; 
+}
+#on{
+    font-size: 50px;
+}
+#on-2022{
+    font-size: 40px;
+    color: rgb(248, 169, 23);
+    font-family: 'Abril Fatface', cursive;
+}
+.para1{
+    text-align: justify;
+    font-size: 15px;
+}
+.anchor{
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+
+}
+.span1{
+    color: rgb(241, 170, 36);
+}
+.para2{
+    text-align: justify;
+}
+#bold{
+    font-size: 30px;
+}
+.box1{
+    background-color: rgb(153, 149, 153);
+    padding: 10px ;
+}
