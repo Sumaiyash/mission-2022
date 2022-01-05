@@ -26,7 +26,7 @@
     font-size: 15px;
 }
 .anchor{
-    background-color: red;
+    background-color: rgb(236, 82, 11);
     color: white;
     padding: 10px 30px;
     text-decoration: none;
@@ -53,27 +53,53 @@
 .box1{
     background-color: rgb(240, 235, 240);
     padding: 10px;
-    height: auto;
     width: 50%;
-    border-radius: 20px ;
+    border-radius: 20px ;   
 }
 .box2{
     background-color: rgb(231, 210, 231);
     padding: 10px;
-    height: auto;
     width: 50%;
     border-radius: 20px ;
+    
+    
 }
-
 .box3{
     background-color: rgb(223, 231, 191);
     padding: 10px;
-    height: auto;
     width: 50%;
     border-radius: 20px ;
 }
 
 .parent{
     display: flex;
+    justify-content: space-around;
 
+}
+.developer{
+    
+    display: flex;
+}
+.limit{
+    width: 50%;
+    background-image: url(image/shape3-.png);
+    background-repeat: no-repeat;
+}
+.limit2{
+    padding-top: 100px;
+    padding-right: 50px;
+}
+.without{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.global{
+    display: flex;
+}
+.community{
+    width: 50%;
+}
+.img3{
+    height: auto;
+    width: 55%;
 }
