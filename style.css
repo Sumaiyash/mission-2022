@@ -11,15 +11,20 @@
     height: auto;
 }
 .line{
-    border-left: 3px solid tomato; 
+    border-left: 5px solid tomato; 
 }
 #on{
     font-size: 50px;
+    margin-top: 20px;
+    padding: 10px;
+
 }
 #on-2022{
     font-size: 40px;
     color: rgb(248, 169, 23);
     font-family: 'Abril Fatface', cursive;
+    padding: 10px;
+   
 }
 .para1{
     text-align: justify;
@@ -44,36 +49,51 @@
     width: 50%;
     height: auto;
 }
-.para2{
-    text-align: justify;
-}
+
+    
+   
+
 #bold{
     font-size: 30px;
 }
 .box1{
     background-color: rgb(240, 235, 240);
-    padding: 10px;
-    width: 50%;
+    padding: 20px ;
+    width: 350px ;
     border-radius: 20px ;   
+    
+    
 }
 .box2{
     background-color: rgb(231, 210, 231);
-    padding: 10px;
-    width: 50%;
+    padding: 20px  ;
+    width: 350px ;
     border-radius: 20px ;
+    margin-left: 20px;
+    
     
     
 }
 .box3{
     background-color: rgb(223, 231, 191);
-    padding: 10px;
-    width: 50%;
+    padding: 20px  ;
+    width: 350px ;
     border-radius: 20px ;
+   margin-left: 20px;
+    
 }
 
 .parent{
     display: flex;
-    justify-content: space-around;
+    width: 100%;
+    
+    margin: 30px;
+    
+    
+}
+.design{
+    margin: 10px;
+    
 
 }
 .developer{
