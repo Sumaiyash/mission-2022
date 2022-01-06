@@ -103,3 +103,67 @@
     height: auto;
     width: 55%;
 }
+#corona{
+    color: rgb(236, 5, 75);
+    text-shadow:2px 2px rgb(166, 182, 197);
+
+}
+.vaccine{
+    text-align: center;
+    font-size: 30px;
+    width: 80%;
+    height: auto;
+    background-image: linear-gradient(rgb(224, 166, 166) , rgb(172, 203, 238));
+    padding-left: 50px;
+}
+.information{
+    width: 50%;
+}
+.parent2{
+    display: flex;
+}
+#info{
+    color: violet;
+    position: center;
+}
+.img4{
+    height: 80%;
+    width: auto;
+}
+.form{
+    background-image: linear-gradient(rgb(212, 153, 207),gray);
+     width: 50%;
+    height: auto;
+    display: center;
+    padding-left: 200px;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(226, 28, 167);
+    border-left: 4px solid rgb(17, 67, 143);
+}
+
+
+
+
+
+.footer{
+    
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(12, 11, 11);
+  
+  text-align: center;
+  
+  
+}
+.foot{
+    font-family: 'Satisfy', cursive;
+    color: white;
+    font-size: 30px;
+}
+#end{
+    color: rgb(207, 40, 10);
+}
+small{
+    color: rgb(131, 131, 131);
+}
