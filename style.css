@@ -123,21 +123,22 @@
     display: flex;
 }
 #info{
-    color: violet;
+    color: rgba(5, 1, 44, 0.589);
     position: center;
+    font: 20px;
 }
 .img4{
     height: 80%;
     width: auto;
 }
 .form{
-    background-image: linear-gradient(rgb(212, 153, 207),gray);
+    background-image: linear-gradient(rgb(79, 197, 218),gray);
      width: 50%;
     height: auto;
     display: center;
     padding-left: 200px;
     border-radius: 10px;
-    box-shadow: 10px 10px rgb(226, 28, 167);
+    box-shadow: 10px 10px rgb(206, 173, 196);
     border-left: 4px solid rgb(17, 67, 143);
 }
 
