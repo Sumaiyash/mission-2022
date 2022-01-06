@@ -16,14 +16,14 @@
 #on{
     font-size: 50px;
     margin-top: 20px;
-    padding: 10px;
+    
 
 }
-#on-2022{
+.on-2022{
     font-size: 40px;
     color: rgb(248, 169, 23);
     font-family: 'Abril Fatface', cursive;
-    padding: 10px;
+    
    
 }
 .para1{
